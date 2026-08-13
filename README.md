@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ShivaniSawargave/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShivaniSawargave/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -53,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShivaniSawargave/DSA/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
