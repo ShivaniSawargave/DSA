@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShivaniSawargave/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShivaniSawargave/DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ShivaniSawargave/DSA/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShivaniSawargave/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
