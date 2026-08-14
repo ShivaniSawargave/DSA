@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShivaniSawargave/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShivaniSawargave/DSA/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/ShivaniSawargave/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/ShivaniSawargave/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
