@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ShivaniSawargave/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
