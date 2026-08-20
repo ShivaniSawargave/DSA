@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShivaniSawargave/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ShivaniSawargave/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ShivaniSawargave/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShivaniSawargave/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ShivaniSawargave/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ShivaniSawargave/DSA/tree/master/0459-repeated-substring-pattern) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ShivaniSawargave/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
