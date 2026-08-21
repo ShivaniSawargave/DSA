@@ -112,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShivaniSawargave/DSA/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShivaniSawargave/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShivaniSawargave/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
