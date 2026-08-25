@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShivaniSawargave/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ShivaniSawargave/DSA/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivaniSawargave/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -136,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivaniSawargave/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
