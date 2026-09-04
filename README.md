@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ShivaniSawargave/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/ShivaniSawargave/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ShivaniSawargave/DSA/tree/master/0434-number-of-segments-in-a-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 ## Simulation
 |  |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/ShivaniSawargave/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ShivaniSawargave/DSA/tree/master/0197-rising-temperature) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
