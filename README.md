@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ShivaniSawargave/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShivaniSawargave/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivaniSawargave/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShivaniSawargave/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
