@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ShivaniSawargave/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivaniSawargave/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivaniSawargave/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -202,8 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivaniSawargave/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivaniSawargave/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShivaniSawargave/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivaniSawargave/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ShivaniSawargave/DSA/tree/master/1991-find-the-middle-index-in-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivaniSawargave/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
