@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivaniSawargave/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/ShivaniSawargave/DSA/tree/master/0724-find-pivot-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivaniSawargave/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ShivaniSawargave/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
