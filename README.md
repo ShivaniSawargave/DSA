@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShivaniSawargave/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShivaniSawargave/DSA/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/ShivaniSawargave/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0233-number-of-digit-one](https://github.com/ShivaniSawargave/DSA/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivaniSawargave/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShivaniSawargave/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ShivaniSawargave/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0233-number-of-digit-one](https://github.com/ShivaniSawargave/DSA/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShivaniSawargave/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ShivaniSawargave/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0233-number-of-digit-one](https://github.com/ShivaniSawargave/DSA/tree/master/0233-number-of-digit-one) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
