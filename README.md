@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShivaniSawargave/DSA/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/ShivaniSawargave/DSA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ShivaniSawargave/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShivaniSawargave/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShivaniSawargave/DSA/tree/master/0057-insert-interval) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivaniSawargave/DSA/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ShivaniSawargave/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
