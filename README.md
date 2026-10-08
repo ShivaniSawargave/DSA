@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/ShivaniSawargave/DSA/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/ShivaniSawargave/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ShivaniSawargave/DSA/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/ShivaniSawargave/DSA/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/ShivaniSawargave/DSA/tree/master/0607-sales-person) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShivaniSawargave/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Stack
