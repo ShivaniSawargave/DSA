@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ShivaniSawargave/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShivaniSawargave/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShivaniSawargave/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShivaniSawargave/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivaniSawargave/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShivaniSawargave/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShivaniSawargave/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShivaniSawargave/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShivaniSawargave/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -273,8 +275,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShivaniSawargave/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShivaniSawargave/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShivaniSawargave/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShivaniSawargave/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
