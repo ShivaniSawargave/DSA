@@ -1,12 +1,11 @@
+
 class Solution:
-    def createGrid(self, m, n):
-        result = []                      # will hold our rows
+    def createGrid(self, m: int, n: int) -> list[str]:
+        grid = []
 
-        for i in range(m):               # go through each row
-            if i == m - 1:
-                row = "." * n            # last row: all open
-            else:
-                row = "." + "#" * (n - 1)  # other rows: first cell open, rest blocked
-            result.append(row)
+        grid.append("." * n)
 
-        return result
+        for i in range(m - 1):
+            grid.append("#" * (n - 1) + ".")
+
+        return grid
