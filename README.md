@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShivaniSawargave/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2409-count-days-spent-together](https://github.com/ShivaniSawargave/DSA/tree/master/2409-count-days-spent-together) |
 | [3870-count-commas-in-range](https://github.com/ShivaniSawargave/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivaniSawargave/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivaniSawargave/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShivaniSawargave/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ShivaniSawargave/DSA/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/ShivaniSawargave/DSA/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |
