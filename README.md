@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivaniSawargave/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivaniSawargave/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/ShivaniSawargave/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ShivaniSawargave/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShivaniSawargave/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivaniSawargave/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ShivaniSawargave/DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/ShivaniSawargave/DSA/tree/master/0605-can-place-flowers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShivaniSawargave/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
