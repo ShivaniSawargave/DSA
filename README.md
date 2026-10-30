@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ShivaniSawargave/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ShivaniSawargave/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivaniSawargave/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/ShivaniSawargave/DSA/tree/master/1768-merge-strings-alternately) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ShivaniSawargave/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/ShivaniSawargave/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ShivaniSawargave/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
