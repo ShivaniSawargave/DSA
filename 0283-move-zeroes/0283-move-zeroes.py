@@ -1,12 +1,12 @@
 class Solution:
-    def moveZeroes(self, nums: List[int]) -> None:
-        arr = []
+    def moveZeroes(self, nums: list[int]) -> None:
+        nonZero = []
         zero = []
 
         for i in range(len(nums)):
-            if nums[i] == 0:
-                zero.append(nums[i])
+            if nums[i] != 0:
+                nonZero.append(nums[i])
             else:
-                arr.append(nums[i])
+                zero.append(nums[i])
 
-        nums[:] = arr + zero
+        nums[:] = nonZero + zero
