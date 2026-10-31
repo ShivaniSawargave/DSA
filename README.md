@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivaniSawargave/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/ShivaniSawargave/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivaniSawargave/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/ShivaniSawargave/DSA/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ShivaniSawargave/DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ShivaniSawargave/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/ShivaniSawargave/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/ShivaniSawargave/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ShivaniSawargave/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShivaniSawargave/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
