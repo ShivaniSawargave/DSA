@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShivaniSawargave/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShivaniSawargave/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ShivaniSawargave/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/ShivaniSawargave/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivaniSawargave/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivaniSawargave/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ShivaniSawargave/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ShivaniSawargave/DSA/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/ShivaniSawargave/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ShivaniSawargave/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/ShivaniSawargave/DSA/tree/master/0605-can-place-flowers) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShivaniSawargave/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
