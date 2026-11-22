@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ShivaniSawargave/DSA/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/ShivaniSawargave/DSA/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/ShivaniSawargave/DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/ShivaniSawargave/DSA/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/ShivaniSawargave/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/ShivaniSawargave/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/ShivaniSawargave/DSA/tree/master/1070-product-sales-analysis-iii) |
