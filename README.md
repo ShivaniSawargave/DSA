@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivaniSawargave/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivaniSawargave/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ShivaniSawargave/DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/ShivaniSawargave/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShivaniSawargave/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShivaniSawargave/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivaniSawargave/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ShivaniSawargave/DSA/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/ShivaniSawargave/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
