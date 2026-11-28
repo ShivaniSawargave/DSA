@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShivaniSawargave/DSA/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ShivaniSawargave/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ShivaniSawargave/DSA/tree/master/0055-jump-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShivaniSawargave/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ShivaniSawargave/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShivaniSawargave/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShivaniSawargave/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ShivaniSawargave/DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShivaniSawargave/DSA/tree/master/0334-increasing-triplet-subsequence) |
